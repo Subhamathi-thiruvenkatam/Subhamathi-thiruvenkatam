@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Subhamathi-thiruvenkatam
-- 👀 I’m interested in Earth science and CNN concepts
-- 🌱 I’m currently learning ML and CNN uses in Geo Informatics
-- 💞️ I’m looking to collaborate on projects related to my field 
+- 🌱 I’m interested in Earth science and sustainability concepts. With a passion for environmental conservation , I am keen to bridge the gap between sustainability and technology
+- 📖 Education : GIS and Remote Sensing
 - 📫 How to reach me subhamathithiruvenkatam@gmail.com
 
 <!---
